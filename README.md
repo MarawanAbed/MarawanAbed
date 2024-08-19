@@ -8,8 +8,11 @@
 📫 How to reach me marwanabed453@gmail.com
 
 ## 🚀 Projects
-- **[Project Name](link-to-project)**: Brief description of the project. Built using Flutter, Firebase, and Bloc for state management.
-- **Easy Bite**: A smart restaurant system with multiple apps for users, chefs, and restaurant managers. Technologies: Flutter, Firebase, Provider.
+- **[Easy Bite](link-to-project)**: Smart Restaurant Management System
+-**EasyBite:** is a comprehensive system designed to streamline restaurant operations. The system includes 
+three distinct applications:
+-**User Application:** Enables customers to browse products and place orders.
+
 
 ## 🎓 Education & Certifications
 - **[Degree] in [Field], [University Name]**
