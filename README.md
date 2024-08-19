@@ -60,9 +60,10 @@ integration, and push notifications for new messages.
 * [Link](https://github.com/MarawanAbed/Shop_Ease)
 
 
-## 📫 How to reach me
-[<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" width="16" />](mailto:marwanabed453@gmail.com.com)
-LinkedIn: <img src="https://static.licdn.com/sc/h/al2o9zwlms7qzl1dkm7qyu5hy" alt="LinkedIn" width="16" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/marwanabed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marwanabed/" height="30" width="40" /></a>
+</p>
 
 ## 🛠 Skills & Technologies
 - **Languages:** Dart,c++,
