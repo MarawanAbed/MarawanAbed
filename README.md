@@ -20,7 +20,7 @@
 **Mobe Movie:** is a feature-rich application designed to enhance the experience of discovering and enjoying 
 movies and TV series. 
 * **Key features include:**
-* **Discover Movies:** Browse upcoming, popular, and top-rated movies.
+** **Discover Movies:** Browse upcoming, popular, and top-rated movies.
 * **Discover TV Series:** Explore TV series that are airing today, popular, and top-rated.
 * **Search Functionality:** Easily find specific titles or explore new genres with a robust search tool.
 * **Detailed Information:** Access in-depth information on movies and TV series, including recommendations 
