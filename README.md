@@ -15,7 +15,7 @@
 * **Chef Application:** Allows chefs to receive and manage customer orders, ensuring prompt preparation.
   [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" width="100" />](https://play.google.com/store/apps/details?id=com.easybite.chief)
 * **Desktop Management Application:** Provides restaurant managers with tools to add products, review orders, manage users, and perform other essential administrative tasks.
-  \n[Link](https://github.com/MarawanAbed/Admin_Panel_Easy_Bite)
+                                                                       [Link](https://github.com/MarawanAbed/Admin_Panel_Easy_Bite)
 
   
 **Mobe Movie:** is a feature-rich application designed to enhance the experience of discovering and enjoying 
