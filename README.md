@@ -1,6 +1,7 @@
-# 👋 Hi, I'm [Your Name]!
-I'm a passionate Flutter developer with a knack for building beautiful and functional mobile applications. I enjoy turning complex problems into simple, elegant solutions.
 
+
+<h1 align="center">Hi 👋, I'm Marwan Abed</h1>
+<h3 align="center">I'm a passionate Flutter developer with a knack for building beautiful and functional mobile applications. I enjoy turning complex problems into simple, elegant solutions.</h3>
 <!--
 **MarawanAbed/MarawanAbed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
