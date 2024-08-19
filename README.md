@@ -9,7 +9,7 @@
 
 ## 🚀 Projects
 - **[Easy Bite](link-to-project)**: Smart Restaurant Management System \n
--**EasyBite:** is a comprehensive system designed to streamline restaurant operations. The system includes 
+- **EasyBite:** is a comprehensive system designed to streamline restaurant operations. The system includes 
 three distinct applications:
 -**User Application:** Enables customers to browse products and place orders.
 
