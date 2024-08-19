@@ -61,8 +61,7 @@ integration, and push notifications for new messages.
 
 
 ## 📫 How to reach me
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/marwanabed/)
-- **Email:** [Email](mailto:marwanabed453@gmail.com)
+GitHub: <img src="https://github.com/favicon.ico" alt="GitHub" width="16" /> LinkedIn: <img src="https://static.licdn.com/sc/h/al2o9zwlms7qzl1dkm7qyu5hy" alt="LinkedIn" width="16" />
 
 ## 🛠 Skills & Technologies
 - **Languages:** Dart,c++,
