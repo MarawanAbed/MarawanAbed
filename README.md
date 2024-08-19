@@ -61,9 +61,8 @@ integration, and push notifications for new messages.
 
 
 ## 📫 How to reach me
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
-- **GitHub:** [Your GitHub Profile](link-to-github)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/marwanabed/)
+- **Email:** [Email](mailto:marwanabed453@gmail.com)
 
 ## 🛠 Skills & Technologies
 - **Languages:** Dart,c++,
