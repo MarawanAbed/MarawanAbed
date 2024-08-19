@@ -12,7 +12,7 @@
 three distinct applications:
 
 - **User Application:** Enables customers to browse products and place orders
-  [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" width="128" />](https://play.google.com/store/apps/details?id=com.easy.bite)
+  [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" width="100" />](https://play.google.com/store/apps/details?id=com.easy.bite)
 
 
 
