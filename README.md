@@ -20,14 +20,44 @@
 **Mobe Movie:** is a feature-rich application designed to enhance the experience of discovering and enjoying 
 movies and TV series. 
 * **Key features include:**
-** **Discover Movies:** Browse upcoming, popular, and top-rated movies.
+* **Discover Movies:** Browse upcoming, popular, and top-rated movies.
 * **Discover TV Series:** Explore TV series that are airing today, popular, and top-rated.
 * **Search Functionality:** Easily find specific titles or explore new genres with a robust search tool.
 * **Detailed Information:** Access in-depth information on movies and TV series, including recommendations 
 for similar content.
 * **Watch Trailers:** View trailers for movies and TV series directly within the app.
 * **Favorites:** Save movies and TV series to your favorites for easy access later.
-* **Genres:** Filter content by genre to find exactly what you are looking for. 
+* **Genres:** Filter content by genre to find exactly what you are looking for.
+* [Link](https://github.com/MarawanAbed/Mobe-movie-app)
+
+
+**Freedom App:** is a real-time messaging application built using Flutter and Firebase. It allows users to sign up, 
+log in, and chat with other users in real-time. The app features user authentication, Firestore database 
+integration, and push notifications for new messages.
+* **Key features include:**
+* **User Authentication:** Secure sign-up and login using Firebase Authentication, including options to sign in 
+* **with Google, Twitter, and GitHub.
+* **Real-Time Messaging:** Send and receive messages instantly with Firestore.
+* **Push Notifications:** Receive notifications for new messages even when the app is in the background.
+* **User Status:** Track user online status and last active time.
+* **Profile Management:** Update user profiles with custom images and information.
+* **Search Functionality:** Search for other users within the app.
+* **Theme System:** Switch between light and dark themes for a personalized user experience.
+* [Link](https://github.com/MarawanAbed/freedom)
+
+
+**Shop Ease:** is an e-commerce application that provides a seamless shopping experience for users. 
+* **Key features include:**
+* **User Authentication:** Secure sign-up and login using Firebase Authentication, including options to sign in with Google, Twitter, and GitHub.
+* **Product Browsing:** Users can browse through various categories of products.
+* **Search:** Users can search for products by name or category.
+* **Shopping Cart:** Users can add products to their shopping cart and view the total price of the items in the cart.
+* **Favorites:** Users can add products to their favorites for easy access in the future.
+* **Profile Management:** Users can view and edit their profile information.
+* **Dark Mode:** Users can switch between light and dark themes according to their preference.
+* **Payment:** Users can make payments for their purchases directly within the app.
+* **Localization:** The app supports multiple languages, enhancing the user experience for non-English speakers.
+* [Link](https://github.com/MarawanAbed/Shop_Ease)
 
 ## 🎓 Education & Certifications
 - **[Degree] in [Field], [University Name]**
