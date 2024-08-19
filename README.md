@@ -65,6 +65,10 @@ integration, and push notifications for new messages.
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marwanabed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marwanabed/" height="30" width="40" /></a>
 </p>
 
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/marwanabed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail-alt.svg" alt="https://www.linkedin.com/in/marwanabed/" height="30" width="40" /></a>
+</p>
+
 ## 🛠 Skills & Technologies
 - **Languages:** Dart,c++,
 - **Frameworks:** Flutter
