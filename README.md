@@ -61,7 +61,7 @@ integration, and push notifications for new messages.
 
 
 ## 📫 How to reach me
-[<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" width="16" />]()
+[<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" width="16" />](mailto:marwanabed453@gmail.com.com)
 LinkedIn: <img src="https://static.licdn.com/sc/h/al2o9zwlms7qzl1dkm7qyu5hy" alt="LinkedIn" width="16" />
 
 ## 🛠 Skills & Technologies
