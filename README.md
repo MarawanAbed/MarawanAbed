@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marwan Abed</h1>
-<h3 align="center">Flutter developer</h3>
-🏫 I am a Computer Science Fresh Graduate from the Faculty of Computers & Information at Suez University
+# 👋 Hi, I'm [Your Name]!
+I'm a passionate Flutter developer with a knack for building beautiful and functional mobile applications. I enjoy turning complex problems into simple, elegant solutions.
 
 <!--
 **MarawanAbed/MarawanAbed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
