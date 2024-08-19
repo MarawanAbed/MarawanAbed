@@ -64,10 +64,8 @@ integration, and push notifications for new messages.
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marwanabed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marwanabed/" height="30" width="40" /></a>
 </p>
+<p align="left"> <a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Logo.png" alt="Gmail" height="30" width="40" /></a> </p>
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marwanabed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail-alt.svg" alt="https://www.linkedin.com/in/marwanabed/" height="30" width="40" /></a>
-</p>
 
 ## 🛠 Skills & Technologies
 - **Languages:** Dart,c++,
