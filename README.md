@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Marwan Abed</h1>
 <h3 align="center">I'm a passionate Flutter developer with a knack for building beautiful and functional mobile applications. I enjoy turning complex problems into simple, elegant solutions.</h3>
 
-
-🌱 I’m currently studying Flutter and Dart
-📫 How to reach me marwanabed453@gmail.com
-
 ## 🚀 Projects
 
 **EasyBite:**  Smart Restaurant Management System , a comprehensive system designed to streamline restaurant operations.
