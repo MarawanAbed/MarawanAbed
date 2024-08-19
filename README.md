@@ -59,9 +59,7 @@ integration, and push notifications for new messages.
 * **Localization:** The app supports multiple languages, enhancing the user experience for non-English speakers.
 * [Link](https://github.com/MarawanAbed/Shop_Ease)
 
-## 🎓 Education & Certifications
-- **[Degree] in [Field], [University Name]**
-- **[Certification]**: Description of the certification (e.g., Flutter & Dart - The Complete Guide).
+
 ## 📫 How to reach me
 - **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
 - **GitHub:** [Your GitHub Profile](link-to-github)
