@@ -17,6 +17,17 @@
 * **Desktop Management Application:** Provides restaurant managers with tools to add products, review orders, manage users, and perform other essential administrative tasks
   [Link](https://github.com/MarawanAbed/Admin_Panel_Easy_Bite)
 
+  
+**Mobe Movie:** is a feature-rich application designed to enhance the experience of discovering and enjoying 
+movies and TV series. Key features include:
+* **Discover Movies:** Browse upcoming, popular, and top-rated movies.
+* **Discover TV Series:** Explore TV series that are airing today, popular, and top-rated.
+* **Search Functionality:** Easily find specific titles or explore new genres with a robust search tool.
+* **Detailed Information:** Access in-depth information on movies and TV series, including recommendations 
+for similar content.
+* **Watch Trailers:** View trailers for movies and TV series directly within the app.
+* **Favorites:** Save movies and TV series to your favorites for easy access later.
+* **Genres:** Filter content by genre to find exactly what you are looking for. 
 
 ## 🎓 Education & Certifications
 - **[Degree] in [Field], [University Name]**
