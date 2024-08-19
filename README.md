@@ -47,7 +47,7 @@ I'm a Flutter developer with a passion for building beautiful and functional app
 
 ### GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=your-username&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=MarawanAbed&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div id="header" align="center">
