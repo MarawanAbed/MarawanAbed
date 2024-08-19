@@ -10,13 +10,10 @@
 ## 🚀 Projects
 - **EasyBite:**  Smart Restaurant Management System , a comprehensive system designed to streamline restaurant operations. The system includes 
 three distinct applications:
-
 - **User Application:** Enables customers to browse products and place orders
   [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" width="100" />](https://play.google.com/store/apps/details?id=com.easy.bite)
-
 - **Chef Application:** Allows chefs to receive and manage customer orders, ensuring prompt preparation. 
   [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" width="100" />](https://play.google.com/store/apps/details?id=com.easybite.chief)
-
 - **Desktop Management Application:** Provides restaurant managers with tools to add products, review 
 orders, manage users, and perform other essential administrative tasks    [Link](https://github.com/MarawanAbed/Admin_Panel_Easy_Bite)
 
