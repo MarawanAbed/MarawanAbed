@@ -13,6 +13,7 @@ A Smart Restaurant Management System designed to streamline restaurant operation
   <a href="https://play.google.com/store/apps/details?id=com.easybite.chief" target="_blank">
     <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" width="90"/>
   </a>
+  
   - **Desktop Management Application:** Provides restaurant managers with tools to add products, review orders, manage users, and perform other essential administrative tasks.  
   [Link](https://github.com/MarawanAbed/Admin_Panel_Easy_Bite)
 
