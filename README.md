@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marwan Abed</h1>
-<h3 align="center">I'm a passionate Flutter developer with a knack for building beautiful and functional mobile applications. I enjoy turning complex problems into simple, elegant solutions.</h3>
+<h3 align="center">A passionate Flutter developer with a knack for building beautiful and functional mobile applications. Enjoying turning complex problems into simple, elegant solutions.</h3>
 
 ## 🚀 Projects
 
