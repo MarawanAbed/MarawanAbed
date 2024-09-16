@@ -5,6 +5,18 @@
 
 ### EasyBite
 A Smart Restaurant Management System designed to streamline restaurant operations.
+
+🔍 Key features of Easy Bite include:
+
+•Real-Time Order Tracking: Improved communication and efficiency between kitchen and dining area.
+
+•Inventory & Menu Management: Easy menu updates, inventory tracking, and analytical insights via the management dashboard.
+
+•User-Friendly Interface: Intuitive customer and chef apps for smooth interaction and order management.
+
+•Enhanced User Experience with AI Assistance: Easy Bite goes beyond traditional restaurant systems by offering AI-powered assistance to customers. Our integrated AI chatbot provides personalized recommendations, answers questions, and offers support throughout the ordering process, enhancing the overall dining experience.
+
+📱 Easy Bite Components:
 - **User Application:** Enables customers to browse products and place orders.  
   <a href="https://play.google.com/store/apps/details?id=com.easy.bite" target="_blank">
     <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" width="90"/>
