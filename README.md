@@ -26,7 +26,7 @@
 
 ## 🏆 Featured Projects
 
-### <img src="https://icons8.com/icon/OmCdrQxGoyDI/plane" width="24"/> Tourly – Hotel Booking Platform
+### ✈️ Tourly – Hotel Booking Platform
 **Full-stack real-time travel booking system**  
 Role-based authentication, real-time chat (SignalR), admin dashboard, and payment integration.  
 *ASP.NET Core, Angular, SQL Server, CQRS, MediatR, OAuth2, JWT, Paymob, SMTP*  
@@ -38,7 +38,7 @@ Role-based authentication, real-time chat (SignalR), admin dashboard, and paymen
 - [Backend](https://github.com/MarawanAbed/Tourly) | [Frontend](https://github.com/rehab-megahed123/Tourly) | [LiveDemo](https://tourlys.vercel.app/)
 
 ---
-### <img src="https://img.icons8.com/color/48/game-controller.png" width="24"/> EcoGaming – E-Commerce Platform
+### 🖥️ EcoGaming – E-Commerce Platform
 **Role-based e-commerce web app**  
 *ASP.NET Core MVC, ASP.NET Web API, SQL Server, Identity, Stripe, SMTP, AutoMapper, Serilog*  
 - Implemented features like cart management, order tracking, Stripe payments, SMTP notifications
@@ -61,7 +61,7 @@ Role-based authentication, real-time chat (SignalR), admin dashboard, and paymen
 
 ---
 
-### <img src="https://img.icons8.com/color/48/hotel-check-in.png" width="24"/> Hotel Management System – Windows Desktop App
+### 🏨 Hotel Management System – Windows Desktop App
 **Desktop App for Hotel Operations**  
 *C#, Windows Forms, SQL Server, EF Core, SHA-256, Excel, 3-Tier Architecture*  
 - Built admin app to manage hotel staff, rooms, and bookings with real-time dashboards
