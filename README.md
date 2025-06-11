@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Marwan Abed</h1>
-<h3 align="center">Full Stack Developer | Turning ideas into impactful solutions</h3>
+<h3 align="center">Full Stack Developer (.NET) | Turning ideas into impactful solutions</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/marwanabed" target="_blank">
