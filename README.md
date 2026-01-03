@@ -11,7 +11,7 @@
   <a href="https://github.com/MarawanAbed">
     <img src="https://img.shields.io/badge/GitHub-MarwanAbed-black?logo=github&style=flat-square" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Damietta,%20Egypt-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Cairo,%20Egypt-green?style=flat-square" />
 </p>
 
 ---
