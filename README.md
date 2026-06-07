@@ -5,8 +5,8 @@
   <a href="https://linkedin.com/in/marwanabed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-MarwanAbed-blue?logo=linkedin&style=flat-square" />
   </a>
-  <a href="mailto:marwanabed453@gmail.com">
-    <img src="https://img.shields.io/badge/Email-marwanabed453@gmail.com-red?logo=gmail&style=flat-square" />
+  <a href="mailto:marwan.abed.tec@gmail.com">
+    <img src="https://img.shields.io/badge/Email-marwan.abed.tec@gmail.com-red?logo=gmail&style=flat-square" />
   </a>
   <a href="https://github.com/MarawanAbed">
     <img src="https://img.shields.io/badge/GitHub-MarwanAbed-black?logo=github&style=flat-square" />
